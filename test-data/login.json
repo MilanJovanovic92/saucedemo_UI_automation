@@ -1,0 +1,14 @@
+{
+    "username": {
+        "standardUser": "standard_user",
+        "lockedOutUser": "locked_out_user",
+        "problemUser": "problem_user"
+    },
+    "password": {
+        "validPassword": "secret_sauce"
+    },
+    "errorMessage": {
+        "missingCredentialsErrorMessage": "Epic sadface: Username is required",
+        "lockedOutErrorMessage": "Epic sadface: Sorry, this user has been locked out."
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "pw-test-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cross-env env=$npm_config_env tags=$npm_config_tags playwright test --workers 3"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.3",
+    "playwright": "^1.49.1"
+  }
+}

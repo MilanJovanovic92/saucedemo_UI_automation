@@ -1,0 +1,35 @@
+{
+    "loginPage": {
+        "usernameInputField": "//input[@id='user-name']",
+        "passwordInputField": "//input[@id='password']",
+        "loginButton": "//input[@id='login-button']",
+        "errorMessage": "//h3[@data-test='error']"
+    },
+    "homePage": {
+        "inventoryItemList": "//div[@class='inventory_list']/div",
+        "inventoyItemTitleList": "//div[@class='inventory_item_name']",
+        "inventoryItemImageList": "//img[@class='inventory_item_img']",
+        "inventoryItemPriceList": "//div[@class='inventory_item_price']",
+        "addToCartButtonList": "//button[@class='btn_primary btn_inventory']",
+        "removeFromCartButtonList": "//button[@class='btn_secondary btn_inventory']",
+        "cartIconBadge": "//span[@class='fa-layers-counter shopping_cart_badge']",
+        "cartButton": "//div[@id='shopping_cart_container']"
+    },
+    "basketPage": {
+        "title": "//div[@class='subheader']",
+        "cartItem": "//div[@class='cart_item']",
+        "continueShoppingButton": "//*[@class='btn_secondary']",
+        "checkoutButton": "//*[@class='btn_action checkout_button']",
+        "removeButton": "//button[@class='btn_secondary cart_button']"
+    },
+    "checkoutPage": {
+        "firstNameInputField": "//input[@id='first-name']",
+        "lastNameInputField": "//input[@id='last-name']",
+        "postalCodeInputField": "//input[@id='postal-code']",
+        "continueButton": "//input[@class='btn_primary cart_button']",
+        "overviewItemTitle": "//div[@class='inventory_item_name']",
+        "overviewItemPrice": "//div[@class='inventory_item_price']",
+        "finishButton": "//a[@class='btn_action cart_button']",
+        "completedOrderTitle": "//h2[@class='complete-header']"
+    }
+}

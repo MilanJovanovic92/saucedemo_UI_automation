@@ -1,0 +1,108 @@
+<testsuites id="" name="" tests="10" failures="0" skipped="0" errors="0" time="11.08651">
+<testsuite name="tests\end-to-end-tests.spec.ts" timestamp="2025-01-03T15:12:49.764Z" hostname="" tests="2" failures="0" skipped="0" time="6.283" errors="0">
+<testcase name="End to end tests @end-to-end-tests › ID 1. Complete Purchase with Item Removal @demo-tests" classname="tests\end-to-end-tests.spec.ts" time="4.176">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\tests-end-to-end-tests-End-ffad6-ith-Item-Removal-demo-tests\test-finished-1.png]]
+
+[[ATTACHMENT|..\test-results\tests-end-to-end-tests-End-ffad6-ith-Item-Removal-demo-tests\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="End to end tests @end-to-end-tests › ID 2. Validate Adding and Removing Products with Sorting Applied @demo-tests" classname="tests\end-to-end-tests.spec.ts" time="2.107">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\tests-end-to-end-tests-End-d9e51--Sorting-Applied-demo-tests\test-finished-2.png]]
+
+[[ATTACHMENT|..\test-results\tests-end-to-end-tests-End-d9e51--Sorting-Applied-demo-tests\test-finished-1.png]]
+
+[[ATTACHMENT|..\test-results\tests-end-to-end-tests-End-d9e51--Sorting-Applied-demo-tests\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="tests\home-page-tests.spec.ts" timestamp="2025-01-03T15:12:49.764Z" hostname="" tests="5" failures="0" skipped="0" time="2.228" errors="0">
+<testcase name="Home page tests @home-page-tests › ID 1. Product Display @demo-tests" classname="tests\home-page-tests.spec.ts" time="0.883">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\tests-home-page-tests-Home-f5aa2--Product-Display-demo-tests\test-finished-1.png]]
+
+[[ATTACHMENT|..\test-results\tests-home-page-tests-Home-f5aa2--Product-Display-demo-tests\test-finished-2.png]]
+
+[[ATTACHMENT|..\test-results\tests-home-page-tests-Home-f5aa2--Product-Display-demo-tests\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Home page tests @home-page-tests › ID 2. Add to Cart @demo-tests" classname="tests\home-page-tests.spec.ts" time="0.358">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\tests-home-page-tests-Home-11679-ID-2-Add-to-Cart-demo-tests\test-finished-1.png]]
+
+[[ATTACHMENT|..\test-results\tests-home-page-tests-Home-11679-ID-2-Add-to-Cart-demo-tests\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Home page tests @home-page-tests › ID 3. Remove from Cart @demo-tests" classname="tests\home-page-tests.spec.ts" time="0.221">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\tests-home-page-tests-Home-bee90-Remove-from-Cart-demo-tests\test-finished-1.png]]
+
+[[ATTACHMENT|..\test-results\tests-home-page-tests-Home-bee90-Remove-from-Cart-demo-tests\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Home page tests @home-page-tests › ID 4. Filter Product @demo-tests" classname="tests\home-page-tests.spec.ts" time="0.319">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\tests-home-page-tests-Home-ce403-4-Filter-Product-demo-tests\test-finished-1.png]]
+
+[[ATTACHMENT|..\test-results\tests-home-page-tests-Home-ce403-4-Filter-Product-demo-tests\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Home page tests @home-page-tests › ID 5. Navigate to Cart @demo-tests" classname="tests\home-page-tests.spec.ts" time="0.447">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\tests-home-page-tests-Home-93117-Navigate-to-Cart-demo-tests\test-finished-1.png]]
+
+[[ATTACHMENT|..\test-results\tests-home-page-tests-Home-93117-Navigate-to-Cart-demo-tests\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="tests\login-page-tests.spec.ts" timestamp="2025-01-03T15:12:49.764Z" hostname="" tests="3" failures="0" skipped="0" time="6.215" errors="0">
+<testcase name="Login page tests @login-page-tests › ID 1. Valid Login @demo-tests" classname="tests\login-page-tests.spec.ts" time="3.741">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\tests-login-page-tests-Log-8a7ee-ID-1-Valid-Login-demo-tests\test-finished-1.png]]
+
+[[ATTACHMENT|..\test-results\tests-login-page-tests-Log-8a7ee-ID-1-Valid-Login-demo-tests\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Login page tests @login-page-tests › ID 2. Empty Fields @demo-tests" classname="tests\login-page-tests.spec.ts" time="1.255">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\tests-login-page-tests-Log-4f7a7-D-2-Empty-Fields-demo-tests\test-finished-2.png]]
+
+[[ATTACHMENT|..\test-results\tests-login-page-tests-Log-4f7a7-D-2-Empty-Fields-demo-tests\test-finished-1.png]]
+
+[[ATTACHMENT|..\test-results\tests-login-page-tests-Log-4f7a7-D-2-Empty-Fields-demo-tests\trace.zip]]
+]]>
+</system-out>
+</testcase>
+<testcase name="Login page tests @login-page-tests › ID 3. Locked out User @demo-tests" classname="tests\login-page-tests.spec.ts" time="1.219">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|..\test-results\tests-login-page-tests-Log-627c2--Locked-out-User-demo-tests\test-finished-3.png]]
+
+[[ATTACHMENT|..\test-results\tests-login-page-tests-Log-627c2--Locked-out-User-demo-tests\test-finished-1.png]]
+
+[[ATTACHMENT|..\test-results\tests-login-page-tests-Log-627c2--Locked-out-User-demo-tests\test-finished-2.png]]
+
+[[ATTACHMENT|..\test-results\tests-login-page-tests-Log-627c2--Locked-out-User-demo-tests\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
