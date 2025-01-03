@@ -18,17 +18,22 @@ The test automation suite is organized into different test categories, and you c
 To run the login page tests, execute the following command:
     `npm run test --tags=@login-page-tests`
 <br>
+
 2. **Homepage Tests**
 To run the homepage tests, execute the following command:
     `npm run test --tags=@home-page-tests`
 <br>
+
 3. **End-to-End Tests**
 To run the end-to-end tests, execute the following command:
     `npm run test --tags=@end-to-end-tests`
 <br>
+
 4. **All Tests**
 To run all available tests, execute the following command:
     `npm run tests --tags=@demo-tests`
+<br>
+
 ## Test Artifacts
 The following files are included in this repository:
 
